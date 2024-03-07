@@ -1,0 +1,2 @@
+name: "Secure Pipeline test - Dependency Check"
+on: ["push","pull_request"]
